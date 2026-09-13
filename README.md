@@ -1,1 +1,1 @@
-Creating a simple Express ToDo application to have an understanding of EXPRESS JS
+Creating a simple Express ToDo application to have an understanding of EXPRESS JS and some practise
